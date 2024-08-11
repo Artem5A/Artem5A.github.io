@@ -14,13 +14,13 @@ const startButton = document.getElementById('start-button');
 
 const texts = {
     RU: {
-        header: 'Текст',
+        header: 'Артем',
         numberSelector: 'КОЛ-ВО КВАДРАТОВ',
         languageBtn: 'Язык: RU',
         startButton: 'Старт'
     },
     EN: {
-        header: 'Text',
+        header: 'Artem',
         numberSelector: 'NUMBER OF SQUARES',
         languageBtn: 'language: EN',
         startButton: 'Start'
