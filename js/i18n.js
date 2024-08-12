@@ -14,16 +14,16 @@ const startButton = document.getElementById('start-button');
 
 const texts = {
     RU: {
-        header: 'Артем',
-        numberSelector: 'КОЛ-ВО КВАДРАТОВ',
+        header: 'ARISTO',
+        numberSelector: 'КОЛ-ВО ЛОВУШЕК',
         languageBtn: 'Язык: RU',
-        startButton: 'Старт'
+        startButton: 'ПОЛУЧИТЬ СИГНАЛ'
     },
     EN: {
-        header: 'Artem',
-        numberSelector: 'NUMBER OF SQUARES',
+        header: 'ARISTO',
+        numberSelector: 'NUMBER OF TRAPS',
         languageBtn: 'language: EN',
-        startButton: 'Start'
+        startButton: 'GET A SIGNAL'
     },
 };
 
