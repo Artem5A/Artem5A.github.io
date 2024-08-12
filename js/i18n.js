@@ -17,7 +17,7 @@ const texts = {
         header: 'ARISTO',
         numberSelector: 'КОЛ-ВО ЛОВУШЕК',
         languageBtn: 'Язык: RU',
-        startButton: 'ПОЛУЧИТЬ СИГНАЛ'
+        startButton: 'СИГНАЛ'
     },
     EN: {
         header: 'ARISTO',
